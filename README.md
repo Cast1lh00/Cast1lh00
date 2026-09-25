@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0a0a0a,60:3b0764,100:7c3aed&text=Hades%20Castilho&fontColor=e9d5ff&fontSize=52&fontAlignY=38&desc=Dev%20Web&descColor=a78bfa&descSize=20&descAlignY=58&animation=fadeIn" alt="Banner Hades Castilho" />
 
 <!-- ═══════════ TYPING ═══════════ -->
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/Cast1lh00">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=A855F7&center=true&vCenter=true&width=520&height=40&lines=Dev+Web;JavaScript+%C2%B7+TypeScript;React.js+%C2%B7+Node.js;Da+interface+ao+servidor" alt="Typing animation" />
 </a>
 
@@ -20,15 +20,7 @@
 <!-- ═══════════ SOBRE MIM ═══════════ -->
 ## `> sobre_mim`
 
-```js
-const hades = {
-  nome: "Hades Castilho",
-  cargo: "Dev Web",
-  stack: ["JavaScript", "TypeScript", "React.js", "Node.js", "HTML5", "CSS3"],
-};
-```
-
-Sou dev web e trabalho com JavaScript e TypeScript, construindo interfaces com React.js e servidores com Node.js.
+Sou **Hades Castilho**, dev web. Trabalho com JavaScript e TypeScript, construindo interfaces com React.js e servidores com Node.js.
 
 <!-- Adicione aqui mais sobre você: o que está estudando, no que está trabalhando, o que curte fazer, etc. -->
 
@@ -47,13 +39,13 @@ Sou dev web e trabalho com JavaScript e TypeScript, construindo interfaces com R
 ## `> projetos`
 
 <!--
-Para adicionar um card, descomente e troque SEU_USUARIO e NOME_DO_REPOSITORIO:
+Para adicionar um card, descomente e troque NOME_DO_REPOSITORIO:
 
-<a href="https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=NOME_DO_REPOSITORIO&theme=transparent&bg_color=0d0d0d&title_color=A855F7&text_color=d4d4d8&icon_color=8B5CF6&border_color=2a2a2a" alt="Projeto" />
+<a href="https://github.com/Cast1lh00/NOME_DO_REPOSITORIO">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Cast1lh00&repo=NOME_DO_REPOSITORIO&theme=transparent&bg_color=0d0d0d&title_color=A855F7&text_color=d4d4d8&icon_color=8B5CF6&border_color=2a2a2a" alt="Projeto" />
 </a>
-<a href="https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=NOME_DO_REPOSITORIO&theme=transparent&bg_color=0d0d0d&title_color=A855F7&text_color=d4d4d8&icon_color=8B5CF6&border_color=2a2a2a" alt="Projeto" />
+<a href="https://github.com/Cast1lh00/NOME_DO_REPOSITORIO">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Cast1lh00&repo=NOME_DO_REPOSITORIO&theme=transparent&bg_color=0d0d0d&title_color=A855F7&text_color=d4d4d8&icon_color=8B5CF6&border_color=2a2a2a" alt="Projeto" />
 </a>
 -->
 
@@ -63,18 +55,18 @@ Para adicionar um card, descomente e troque SEU_USUARIO e NOME_DO_REPOSITORIO:
 ## `> estatisticas`
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=false&bg_color=0d0d0d&title_color=A855F7&text_color=d4d4d8&icon_color=8B5CF6&border_color=2a2a2a&ring_color=A855F7" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=6&bg_color=0d0d0d&title_color=A855F7&text_color=d4d4d8&border_color=2a2a2a" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Cast1lh00&show_icons=true&hide_border=false&bg_color=0d0d0d&title_color=A855F7&text_color=d4d4d8&icon_color=8B5CF6&border_color=2a2a2a&ring_color=A855F7" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cast1lh00&layout=compact&langs_count=6&bg_color=0d0d0d&title_color=A855F7&text_color=d4d4d8&border_color=2a2a2a" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&background=0d0d0d&stroke=2a2a2a&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&currStreakNum=ffffff&sideNums=ffffff&sideLabels=d4d4d8&dates=71717a&border=2a2a2a" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Cast1lh00&background=0d0d0d&stroke=2a2a2a&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&currStreakNum=ffffff&sideNums=ffffff&sideLabels=d4d4d8&dates=71717a&border=2a2a2a" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0d0d0d&color=d4d4d8&line=A855F7&point=ffffff&area=true&area_color=A855F7&hide_border=true&title_color=A855F7" alt="Activity Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Cast1lh00&bg_color=0d0d0d&color=d4d4d8&line=A855F7&point=ffffff&area=true&area_color=A855F7&hide_border=true&title_color=A855F7" alt="Activity Graph" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=8B5CF6" alt="" />
@@ -83,7 +75,7 @@ Para adicionar um card, descomente e troque SEU_USUARIO e NOME_DO_REPOSITORIO:
 ## `> trofeus`
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=darkhub&no-bg=true&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Cast1lh00&theme=darkhub&no-bg=true&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=8B5CF6" alt="" />
@@ -93,9 +85,9 @@ Para adicionar um card, descomente e troque SEU_USUARIO e NOME_DO_REPOSITORIO:
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake.svg" />
-    <img alt="Snake contribution graph" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cast1lh00/Cast1lh00/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cast1lh00/Cast1lh00/output/github-snake.svg" />
+    <img alt="Snake contribution graph" src="https://raw.githubusercontent.com/Cast1lh00/Cast1lh00/output/github-snake-dark.svg" />
   </picture>
 </div>
 
@@ -105,7 +97,7 @@ Para adicionar um card, descomente e troque SEU_USUARIO e NOME_DO_REPOSITORIO:
 ## `> contato`
 
 <p align="left">
-  <a href="https://github.com/SEU_USUARIO">
+  <a href="https://github.com/Cast1lh00">
     <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=A855F7" alt="GitHub" />
   </a>
   <a href="COLE_AQUI_O_LINK_DO_LINKEDIN">
