@@ -55,8 +55,8 @@ Para adicionar um card, descomente e troque NOME_DO_REPOSITORIO:
 ## `> estatisticas`
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Cast1lh00&show_icons=true&hide_border=false&bg_color=0d0d0d&title_color=A855F7&text_color=d4d4d8&icon_color=8B5CF6&border_color=2a2a2a&ring_color=A855F7" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cast1lh00&layout=compact&langs_count=6&bg_color=0d0d0d&title_color=A855F7&text_color=d4d4d8&border_color=2a2a2a" alt="Top Languages" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=Cast1lh00&show_icons=true&hide_border=false&bg_color=0d0d0d&title_color=A855F7&text_color=d4d4d8&icon_color=8B5CF6&border_color=2a2a2a&ring_color=A855F7" alt="GitHub Stats" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Cast1lh00&layout=compact&langs_count=6&bg_color=0d0d0d&title_color=A855F7&text_color=d4d4d8&border_color=2a2a2a" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -71,14 +71,11 @@ Para adicionar um card, descomente e troque NOME_DO_REPOSITORIO:
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=8B5CF6" alt="" />
 
-<!-- ═══════════ TROFÉUS ═══════════ -->
 ## `> trofeus`
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Cast1lh00&theme=darkhub&no-bg=true&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=8B5CF6" alt="" />
 
 <!-- ═══════════ SNAKE ═══════════ -->
 ## `> contribuicoes`
