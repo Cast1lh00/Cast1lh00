@@ -29,7 +29,7 @@ Sou **Hades Castilho**, dev web. Trabalho com JavaScript e TypeScript, construin
 <!-- ═══════════ TECNOLOGIAS ═══════════ -->
 ## `> tecnologias`
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css&theme=dark" alt="Tecnologias" />
 </p>
 
