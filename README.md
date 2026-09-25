@@ -85,10 +85,10 @@ Para adicionar um card, descomente e troque NOME_DO_REPOSITORIO:
   <a href="https://github.com/Cast1lh00">
     <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=A855F7" alt="GitHub" />
   </a>
-  <a href="COLE_AQUI_O_LINK_DO_LINKEDIN">
+  <a href="https://www.linkedin.com/in/hades-castilho-b87629347/">
     <img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=A855F7" alt="LinkedIn" />
   </a>
-  <a href="COLE_AQUI_O_LINK_DO_INSTAGRAM">
+  <a href="[COLE_AQUI_O_LINK_DO_INSTAGRAM](https://www.instagram.com/hades_castilho/)">
     <img src="https://img.shields.io/badge/Instagram-0d0d0d?style=for-the-badge&logo=instagram&logoColor=A855F7" alt="Instagram" />
   </a>
 </p>
