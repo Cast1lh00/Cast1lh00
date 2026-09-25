@@ -63,19 +63,7 @@ Para adicionar um card, descomente e troque NOME_DO_REPOSITORIO:
   <img src="https://streak-stats.demolab.com?user=Cast1lh00&background=0d0d0d&stroke=2a2a2a&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&currStreakNum=ffffff&sideNums=ffffff&sideLabels=d4d4d8&dates=71717a&border=2a2a2a" alt="GitHub Streak" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Cast1lh00&bg_color=0d0d0d&color=d4d4d8&line=A855F7&point=ffffff&area=true&area_color=A855F7&hide_border=true&title_color=A855F7" alt="Activity Graph" />
-</div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=8B5CF6" alt="" />
-
-## `> trofeus`
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Cast1lh00&theme=darkhub&no-bg=true&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
-</div>
 
 <!-- ═══════════ SNAKE ═══════════ -->
 ## `> contribuicoes`
