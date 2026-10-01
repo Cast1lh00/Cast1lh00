@@ -39,7 +39,7 @@ Sou **Hades Castilho**, dev web. Trabalho com JavaScript e TypeScript, construin
 ## `> projetos`
 
 <a href="https://github.com/Cast1lh00/Site-para-condominios-residenciais">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Cast1lh00&repo=Site-para-condominios-residenciais&bg_color=0d0d0d&title_color=A855F7&text_color=d4d4d8&icon_color=8B5CF6&border_color=2a2a2a" alt="Site para Condomínios Residenciais" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Cast1lh00&repo=Site-para-condominios-residenciais&bg_color=0d0d0d&title_color=A855F7&text_color=d4d4d8&icon_color=8B5CF6&border_color=2a2a2a&cache_seconds=0" alt="Site para Condomínios Residenciais" />
 </a>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=8B5CF6" alt="" />
